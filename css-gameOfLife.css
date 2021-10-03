@@ -1,0 +1,32 @@
+*{
+  margin: auto;
+  text-align: center;
+  border-radius: 10px;
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.cell {
+  /* background-color: rgb(51, 17, 44); */
+  background-color: seashell;
+  color: red;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.board {
+color: black;
+display: block;
+}
+
+.button{
+  background-color:grey;
+  color: whitesmoke;
+  font-size: xx-large;
+  height: 100;
+  width: 100px;
+}
+
+
